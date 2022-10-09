@@ -8,7 +8,6 @@ html, body {
 
 #navbar {
     position: fixed;
-    /* background-color: red; */
     min-width: 290px;
     top: 0px;
     left: 0px;
@@ -19,7 +18,6 @@ html, body {
 }
 
 header {
-    /* background-color: aqua; */
     color: black;
     margin: 10px;
     text-align: center;
@@ -32,7 +30,6 @@ header {
     margin: 0px;
 }
 
- /* check later */
 #navbar > ul {
     height: 100%;
     padding: 0;
